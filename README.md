@@ -19,9 +19,5 @@ Skills:  REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shovoalways&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/shovoalways)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shovoalways)  
 
