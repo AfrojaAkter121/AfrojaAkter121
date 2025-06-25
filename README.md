@@ -80,7 +80,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AfrojaAkter121&show_icons=true&theme=react&hide_border=true&border_radius=8" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrojaAkter121&theme=react&hide_border=true&border_radius=8" height="160"/>
 </p>
-
+  
+<p align="center">
+  <!-- Backend & DB -->
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrojaAkter121&layout=compact&theme=react&hide_border=true&langs_count=8&hide=python" height="160"/>
 </p>
