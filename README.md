@@ -17,8 +17,8 @@
 👩‍💻 I'm *Afroja Akter*, a passionate *MERN Stack Developer* from 🇧🇩 Bangladesh.  
 🌱 I love creating responsive, user-friendly, and scalable web apps.  
 🎯 Focused on clean UI, performance & reusable components.  
-📫 Reach me: [afrojaakter10bd@gmail.com](mailto:afrojaakter10bd@gmail.com)  
-🔗 Portfolio: [AfrojaAkter121 GitHub](https://github.com/AfrojaAkter121)
+📫 Email: [afrojaakter10bd@gmail.com](mailto:afrojaakter10bd@gmail.com)  
+🔗 GitHub: [AfrojaAkter121](https://github.com/AfrojaAkter121)
 
 ---
 
@@ -33,28 +33,27 @@
 
 ## 💻 Tech Stack
 
-*Frontend*  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
-
-*Backend & DB*  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-
-*Tools*  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
@@ -72,15 +71,15 @@
 
 | 🌟 Project | 🛠️ Technologies | 🧩 Features | 🔗 Links |
 |-----------|------------------|-------------|----------|
-|*🎯 Passion Point** | React, Firebase Auth, Node.js, Express, MongoDB, Tailwind | 🔐 Auth Dashboard<br>⚙️ Role-Based Access<br>🔄 Dynamic Content | [🌐 Live](https://passion-point-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/passion-point-client) |
-|*🌍 Journey Nest** | React, Firebase, Splide.js, Framer Motion, Tailwind | 📸 Animated Blog UI<br>❤️ Reactions<br>🔍 Filter by Category | [🌐 Live](https://journey-nest-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/journey-nest-client) |
+|*🎯 Passion Point** | React, Firebase, Node.js, Express, MongoDB, Tailwind | 🔐 Auth-based dashboard<br>⚙️ Role-based management<br>🔄 Dynamic content | [🌐 Live](https://passion-point-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/passion-point-client) |
+|*🌍 Journey Nest** | React, Firebase, Splide.js, Framer Motion, Tailwind | 📸 Travel blog UI<br>❤️ Reactions<br>🔍 Category filter | [🌐 Live](https://journey-nest-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/journey-nest-client) |
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrojaAkter121&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrojaAkter121&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </p>
 
 ---
