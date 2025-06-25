@@ -19,7 +19,7 @@
 👩‍💻 I'm **Afroja Akter**, a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩**  
 💡 I enjoy solving problems and building user-friendly web applications  
 🎨 I focus on clean UI, reusability, and optimized code  
-📫 Reach me at: **afrojaakter10bd@gmailcom**  
+📫 Reach me at: **afrojaakter10bd@gmail.com** 
 📁 GitHub: [AfrojaAkter121](https://github.com/AfrojaAkter121)
 
 ---
