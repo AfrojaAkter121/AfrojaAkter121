@@ -43,7 +43,8 @@
 ---
 
 ### 📊 GitHub Stats (Dynamic)
-<p align="center">
+<div>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AfrojaAkter121&show_icons=true&theme=react&hide_border=true&border_radius=8" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfrojaAkter121&theme=react&hide_border=true&border_radius=8" height="160"/>
 </p>
@@ -51,7 +52,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrojaAkter121&layout=compact&theme=react&hide_border=true&langs_count=8&hide=python" height="160"/>
 </p>
+</div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrojaAkter121&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 ---
 
 ### 🎨 Sticker Zone (Professional)
