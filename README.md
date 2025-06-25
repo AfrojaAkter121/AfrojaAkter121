@@ -32,15 +32,46 @@
 
 ### 🚀 Featured Projects
 
-#### 🎯 [Passion Point](https://passion-point-project.web.app/)
-✨ A platform to showcase user passions with authentication, dashboards, and dynamic content  
-🔗 [Live](https://passion-point-project.web.app/) | [GitHub](https://github.com/AfrojaAkter121/passion-point-client)
+<table>
+  <thead>
+    <tr>
+      <th>🌟 Project</th>
+      <th>🛠️ Technologies</th>
+      <th>🐞 Solved Issues</th>
+      <th>🔗 Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎯 Passion Point</strong></td>
+      <td>React, Firebase Auth, Node.js, Express, MongoDB, Tailwind</td>
+      <td>
+        🔐 Auth-based dashboard access<br>
+        ⚙️ Role-based data management<br>
+        🔄 Dynamic content rendering
+      </td>
+      <td>
+        <a href="https://passion-point-project.web.app/">🌐 Live</a><br>
+        <a href="https://github.com/AfrojaAkter121/passion-point-client">💻 GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🌍 Journey Nest</strong></td>
+      <td>React, Firebase, Splide.js, Framer Motion, Tailwind</td>
+      <td>
+        📸 Animated travel blog UI<br>
+        ❤️ Reaction feature for posts<br>
+        🔍 Category-wise blog filtering
+      </td>
+      <td>
+        <a href="https://journey-nest-project.web.app/">🌐 Live</a><br>
+        <a href="https://github.com/AfrojaAkter121/journey-nest-client">💻 GitHub</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-#### 🌍 [Journey Nest](https://journey-nest-project.web.app/)
-🧳 A travel blog where users can read, react, and explore travel stories around the world  
-🔗 [Live](https://journey-nest-project.web.app/) | [GitHub](https://github.com/AfrojaAkter121/journey-nest-client)
-
----
+ -----
 
 ### 📊 GitHub Stats (Dynamic)
 <div>
