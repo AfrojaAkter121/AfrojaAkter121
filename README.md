@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AfrojaAkter121.AfrojaAkter121" />
+<img align="right" src="Red and Black Modern Business Development Strategy Banner.png" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,9 +6,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1708951/screenshots/7251603/media/d3f1740963e8b8f6b6b386c4c71c6f78.gif" alt="Coding" width="100%" />
-</p>
 
 ---
 
