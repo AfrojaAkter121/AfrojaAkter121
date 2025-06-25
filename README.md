@@ -6,10 +6,10 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://github.com/AfrojaAkter121" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="https://www.facebook.com/profile.php?id=100092609836093" title="Facebook Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"> Facebook</a></code>
-</h5>
+<p align="center">
+  <img src="https://i.ibb.co/jD1RkMN/dev-girl-hero.gif" alt="Coding Girl" width="100%" />
+</p>
+
 
 ---
 
