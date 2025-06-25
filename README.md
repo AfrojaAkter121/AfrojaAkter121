@@ -7,8 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/jD1RkMN/dev-girl-hero.gif" alt="Coding Girl" width="100%" />
+  <img src="https://cdn.dribbble.com/users/1708951/screenshots/7251603/media/d3f1740963e8b8f6b6b386c4c71c6f78.gif" alt="React Developer Animation" width="100%" />
 </p>
+
 
 
 ---
@@ -18,7 +19,7 @@
 👩‍💻 I'm **Afroja Akter**, a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩**  
 💡 I enjoy solving problems and building user-friendly web applications  
 🎨 I focus on clean UI, reusability, and optimized code  
-📫 Reach me at: **afrojapro2020@gmail.com**  
+📫 Reach me at: **afrojaakter10bd@gmailcom**  
 📁 GitHub: [AfrojaAkter121](https://github.com/AfrojaAkter121)
 
 ---
