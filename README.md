@@ -64,9 +64,9 @@
 
 | 🌟 Project | 🛠️ Technologies | 🧩 Features | 🔗 Links |
 |-----------|------------------|-------------|----------|
-|*🎯 Passion Point** | React, Firebase, Node.js, Express, MongoDB, Tailwind | 🔐 Auth-based dashboard<br>⚙️ Role-based management<br>🔄 Dynamic content | [🌐 Live](https://passion-point-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/passion-point-client) |
-|*🌍 Journey Nest** | React, Firebase, Splide.js, Framer Motion, Tailwind | 📸 Travel blog UI<br>❤️ Reactions<br>🔍 Category filter | [🌐 Live](https://journey-nest-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/journey-nest-client) |
-| *💪 FitNest* | React, Firebase, Node.js, Express, MongoDB, Tailwind, Stripe | 🏋️ Role-based dashboards<br>🧑‍🏫 Trainer application & booking<br>💳 Stripe-integrated payment system | [🌐 Live](https://core-champ-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/fitnest-client) |
+|*🎯 Passion Point** | React, Firebase, Node.js, Express, MongoDB, Tailwind | 🔐 Auth-based dashboard<br>⚙️ Role-based management<br>🔄 Dynamic content | [🌐 Live](https://heroic-gingersnap-effaf1.netlify.app) <br> [💻 GitHub](https://github.com/AfrojaAkter121/passoin-point-project) |
+|*🌍 Journey Nest** | React, Firebase, Splide.js, Framer Motion, Tailwind | 📸 Travel blog UI<br>❤️ Reactions<br>🔍 Category filter | [🌐 Live](https://journey-nest-project.web.app) <br> [💻 GitHub](https://github.com/AfrojaAkter121/journey-nest-project) |
+| *💪 FitNest* | React, Firebase, Node.js, Express, MongoDB, Tailwind, Stripe | 🏋️ Role-based dashboards<br>🧑‍🏫 Trainer application & booking<br>💳 Stripe-integrated payment system | [🌐 Live](https://core-champ-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/plantNest-project-client) |
 
 
 ---
@@ -76,18 +76,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrojaAkter121&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </p>
-
----
-
-## 🎨 Sticker Zone
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2069402/screenshots/6001158/dev_illustration.gif" width="200" />
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7f0d8ed19e6bdbf3286d3d66.gif" width="200" />
-  <img src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/working.gif" width="200" />
-</p>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=AfrojaAkter121&color=blue" alt="Profile Views" />
 visitor-badge.laobi.icu
