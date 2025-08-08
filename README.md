@@ -1,4 +1,3 @@
-<img align="right" src="Red and Black Modern Business Development Strategy Banner.png" />
 
 <h1 align="center" style="font-weight: bold; font-size: 32px; color: #2F80ED;">
   <img src="https://i.postimg.cc/1tHQk20b/Whats-App-Image-2025-08-08-at-11-38-25-a3d0e025.jpg" alt="Afroja Akter Typing SVG" />
