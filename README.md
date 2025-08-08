@@ -3,7 +3,11 @@
   <img src="https://i.postimg.cc/1tHQk20b/Whats-App-Image-2025-08-08-at-11-38-25-a3d0e025.jpg" alt="Afroja Akter Typing SVG" />
 </h1>
 
+### 👋 Hello and welcome! I’m Afroja  
 
+I’m a **MERN Stack Developer** focused on building scalable and user-friendly web applications.  
+
+🌐 [Check out my Portfolio](https://boisterous-klepon-4efcdc.netlify.app) 
 
 ## 💫 About Me
 
