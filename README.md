@@ -1,7 +1,7 @@
 <img align="right" src="Red and Black Modern Business Development Strategy Banner.png" />
 
 <h1 align="center" style="font-weight: bold; font-size: 32px; color: #2F80ED;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Afroja+Akter;MERN+Stack+Web+Developer+🚀;Crafting+Frontend+Magic+with+Love+✨" alt="Afroja Akter Typing SVG" />
+  <img src="https://i.postimg.cc/1tHQk20b/Whats-App-Image-2025-08-08-at-11-38-25-a3d0e025.jpg" alt="Afroja Akter Typing SVG" />
 </h1>
 
 
