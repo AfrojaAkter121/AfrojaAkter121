@@ -66,6 +66,8 @@
 |-----------|------------------|-------------|----------|
 |*🎯 Passion Point** | React, Firebase, Node.js, Express, MongoDB, Tailwind | 🔐 Auth-based dashboard<br>⚙️ Role-based management<br>🔄 Dynamic content | [🌐 Live](https://passion-point-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/passion-point-client) |
 |*🌍 Journey Nest** | React, Firebase, Splide.js, Framer Motion, Tailwind | 📸 Travel blog UI<br>❤️ Reactions<br>🔍 Category filter | [🌐 Live](https://journey-nest-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/journey-nest-client) |
+| *💪 FitNest* | React, Firebase, Node.js, Express, MongoDB, Tailwind, Stripe | 🏋️ Role-based dashboards<br>🧑‍🏫 Trainer application & booking<br>💳 Stripe-integrated payment system | [🌐 Live](https://core-champ-project.web.app/) <br> [💻 GitHub](https://github.com/AfrojaAkter121/fitnest-client) |
+
 
 ---
 
